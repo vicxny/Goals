@@ -11,6 +11,7 @@
 - [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms) - [Notes](https://drive.google.com/drive/folders/1wa5npIJAOfv5npYWXDpVHJ1GwMlQRjIj) 
 - [ ] [System Design](https://github.com/vicxny/System-Design)
 
+
 Courses | Offered by | Type | Month | Pace |
 :-- | :--: | :--: | :--: | :--: |
 [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) | Meta | Front-End Developer | Approximately 7 months | 6 hours/week |
