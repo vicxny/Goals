@@ -2,7 +2,7 @@
 
 - [ ] [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence#courses) 
 - [ ] [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
-- [ ] [Python for Everybody](https://www.coursera.org/specializations/python#courses)
+- [ ] [Python for Everybody](https://www.youtube.com/watch?v=8DvywoWv6fI)
 - [ ] [McKinsey Academy](https://academy.mckinseyaccelerate.com/pages/49/home)
 
 ## Goals
