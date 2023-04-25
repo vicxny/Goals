@@ -1,9 +1,10 @@
 # Goals
 
-- [ ] [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence#courses) 
 - [ ] [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 - [ ] [Python for Everybody](https://www.youtube.com/watch?v=8DvywoWv6fI)
+- [ ] [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://www.youtube.com/watch?v=vzGllw18DkA)
 - [ ] [McKinsey Academy](https://academy.mckinseyaccelerate.com/pages/49/home)
+
 
 ## Goals
 - [ ]  [Javascript](https://github.com/vicxny/Javascipt) - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
