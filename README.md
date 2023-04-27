@@ -32,7 +32,7 @@ Courses | Offered by | Type | Month | Pace |
 [Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer) | Meta | Database Engineer | Approximately 6 months | 6 hours/week |
 [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) | Google | Data Analytics | Approximately 6 months | 10 hours/week |
 [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence#courses) | Google | Data Analytics | Approximately 2 months | 10 hours/week |
-
+[Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke#courses)| Duke | Data Analytics | Approximately 4 months | 6 hours/week |
 
 ## Completed
 - [x] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
