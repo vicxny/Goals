@@ -5,7 +5,6 @@
 - [ ] [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 - [ ] [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
 - [ ] [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=8mAITcNt710)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA)
-- [ ] [McKinsey Academy](https://academy.mckinseyaccelerate.com/pages/49/home)
 
 
 ## Goals
@@ -38,3 +37,4 @@ Courses | Offered by | Type | Month | Pace |
 ## Completed
 - [x] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
 - [x] [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [x] [McKinsey Academy](https://academy.mckinseyaccelerate.com/pages/49/home)
