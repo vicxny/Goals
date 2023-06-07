@@ -4,6 +4,7 @@
 - [ ] [Python for Everybody](https://www.coursera.org/specializations/python)
 - [ ] [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 - [ ] [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
+- [ ] [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 - [ ] [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=8mAITcNt710)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA)
 
 
