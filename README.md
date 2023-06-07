@@ -38,3 +38,4 @@ Courses | Offered by | Type | Month | Pace |
 - [x] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
 - [x] [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 - [x] [McKinsey Academy](https://academy.mckinseyaccelerate.com/pages/49/home)
+- [x] Google Business Intelligence Professional Certificate]
