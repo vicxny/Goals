@@ -3,8 +3,7 @@
 - [ ] [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 - [ ] [Python for Everybody](https://www.coursera.org/specializations/python)
 - [ ] [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
-- [ ] [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
-- [ ] [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+- [ ] [CSE373 - Analysis of Algorithms](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao)
 - [ ] [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=8mAITcNt710)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA)
 
 
@@ -35,6 +34,11 @@ Courses | Offered by | Type | Month | Pace |
 [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence#courses) | Google | Data Analytics | Approximately 2 months | 10 hours/week |
 [Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke#courses)| Duke | Data Engineer | Approximately 4 months | 6 hours/week |
 
+## Class
+- [ ] [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
+- [ ] [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+
+      
 ## Completed
 - [x] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
 - [x] [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
