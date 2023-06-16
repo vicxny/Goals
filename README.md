@@ -3,7 +3,7 @@
 - [ ] [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 - [ ] [Python for Everybody](https://www.coursera.org/specializations/python)
 - [ ] [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
-- [ ] [CSE373 - Analysis of Algorithms](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao)
+- [ ] [Problem-Solving with Algorithms and Data Structures using Python¶](https://runestone.academy/ns/books/published/pythonds/index.html)
 - [ ] [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=8mAITcNt710)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA)
 
 
