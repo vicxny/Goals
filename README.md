@@ -42,6 +42,7 @@ Courses | Offered by | Type | Month | Pace |
 - [ ] [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 - [ ] [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing#courses)
 - [ ] [Python, Bash, and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke#courses)
+- [ ] [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics#courses)
 
       
 ## Completed
