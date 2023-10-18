@@ -16,7 +16,7 @@
 
 - [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms) - [Notes](https://drive.google.com/drive/folders/1wa5npIJAOfv5npYWXDpVHJ1GwMlQRjIj) 
 - [ ] [System Design](https://github.com/vicxny/System-Design)
-
+- [ ] [Launch School](https://launchschool.com/course_catalog)
 
 ## Coursera
 
