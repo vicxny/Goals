@@ -3,7 +3,7 @@
 - [x] [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 - [ ] [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing#courses)
 - [ ] [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) 
-- [X] [Python for Everybody](https://www.coursera.org/specializations/python)
+- [ ] [Python for Everybody](https://www.coursera.org/specializations/python)
 - [x] [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 - [ ] [Problem-Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
 - [ ] [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=8mAITcNt710)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA)
