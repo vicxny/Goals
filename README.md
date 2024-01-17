@@ -6,11 +6,10 @@
 - [ ] [Python for Everybody](https://www.coursera.org/specializations/python)
 - [x] [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 - [ ] [Problem-Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
-- [ ] [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=8mAITcNt710)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA)
-
+- [ ] [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=8mAITcNt710)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA
 
 ## Goals
-- [ ]  [Javascript](https://github.com/vicxny/Javascipt) - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- [ ] [Javascript](https://github.com/vicxny/Javascipt) - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - [ ] [Cohort-2](https://github.com/vicxny/Cohort-2)- [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S): Class 35
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep) 
 
