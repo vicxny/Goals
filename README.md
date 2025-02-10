@@ -5,6 +5,7 @@
 - [ ] [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) 
 - [ ] [Python for Everybody](https://www.coursera.org/specializations/python)
 - [x] [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
+- [ ] [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html)
 - [ ] [Problem-Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
 - [ ] [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=8mAITcNt710)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA)
 
